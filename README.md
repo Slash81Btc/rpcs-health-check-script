@@ -60,7 +60,7 @@ Follow these steps to set up the shell script:
     # List of RPC endpoints
     endpoints=(
         "https://brn.rpc.caldera.xyz" # L1RN RPC URL
-        "https://brn.rpc.caldera.xyz/" # Alternative L1RN RPC URL
+        "https://brn.calderarpc.com/" # Alternative L1RN RPC URL
         "0000000000000000000000000000000000000000000000000000000000000000"  # Update with your Arbitrum Sepolia RPC URL
         "0000000000000000000000000000000000000000000000000000000000000000"  # Update with your Base Sepolia RPC URL
         "0000000000000000000000000000000000000000000000000000000000000000"  # Update with your Blast Sepolia RPC URL
